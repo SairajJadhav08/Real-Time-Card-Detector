@@ -1,4 +1,4 @@
-# Playing Card Detector - Real-Time AI Recognition
+# Real-Time Card Detector - Playing Card Detection with AI Recognition
 
 A full-stack application that detects playing cards in real-time using computer vision, featuring an interactive React frontend and Python backend with AI/ML capabilities.
 
@@ -202,4 +202,8 @@ MIT License - see LICENSE file for details
 
 ## 📞 Support
 
+<<<<<<< HEAD
 For questions and support, please open an issue in the GitHub repository.
+=======
+For questions and support, please open an issue in the GitHub repository.
+>>>>>>> a3231e4150f72c617f00587487fb52f0405c6954
