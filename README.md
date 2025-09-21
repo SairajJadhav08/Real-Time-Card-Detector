@@ -277,3 +277,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ⭐ **Star this repository** if you find it helpful!
 
 🚀 **Ready to build amazing card detection applications?** Start with our [Quick Start Guide](#-quick-start)!
+
+SnapShot:
+<img width="1341" height="791" alt="image" src="https://github.com/user-attachments/assets/efbcc488-4503-47ab-994e-7fe20993f0bd" />
+<img width="1855" height="955" alt="image" src="https://github.com/user-attachments/assets/5639c5ff-5a2a-445d-a9f5-73ca38bfdefb" />
+
+
